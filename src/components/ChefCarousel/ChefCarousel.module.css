@@ -1,0 +1,29 @@
+.chef-carousel {
+    margin: 2em 0;
+    align-items: center;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+    padding: 1em 0;
+}
+
+.carousel::-webkit-scrollbar {
+    display: none;
+}
+
+.chef-carousel h2 {
+    margin-bottom: 1em;
+}
+.chef__carousel{
+    display: flex;
+    flex-direction: column;
+}
+.chef__title{
+    color: black;
+}
+.carousel{
+    display: flex;
+    justify-content: center;
+}
